@@ -4,8 +4,8 @@
   "description": "Простой проект с json-server для имитации REST API",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 3000",
-    "dev": "json-server --watch db.json --port 3000 --delay 500",
+    "start": "json-server --watch db.json --port 10000",
+    "dev": "json-server --watch db.json --port 10000 --delay 500",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
